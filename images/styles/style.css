@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+}
+/* header banner */
+.header{
+  background-image: url(../donation7.jpg);
+  width: 100%;
+  height:50vh;
+  background-repeat: no-repeat;
+  background-blend-mode:cover;
+  margin: auto;
+  padding:20px;
+  background-blend-mode:hard-light;
+}
+
+.primary{
+    border: none;
+    color:black;
+    padding: 10px 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: orange;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-top: 20px;
+}
+
+.header-div{
+   padding-top: 100px;
+}  
+.header-title{
+    color:white;
+    font-size: 44px;
+}
+.description{
+    color: grey;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+/* main section */
+main{
+    background-color: white;
+    margin-top: -60px;
+}
+.donate-title{
+    font-size: 30px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+    
+}
+.Donate-today{
+margin:60px 90px;
+text-align: center;
+}
+.item-list{
+
+}
+.taka-list{
+margin: 15px;
+display: flex;
+list-style: none;
+justify-content:space-around;
+margin: 0 350px;
+color: rgba(208, 202, 202, 0);
+align-items: center;
+
+}
+.width-tk{
+    width: 50px;
+    height: 30px;
+    border:none;
+    color:rgba(8, 8, 8, 0.795);
+    padding: 30px 30px;
+    text-align: center;
+    padding-top: 45px;
+    border-radius: 5px;
+    background-color:rgba(241, 241, 241, 0.641);
+   
+    
+}
+.width-tk1{
+    width: 50px;
+    height: 30px;
+    border:1px solid red;
+    padding: 30px 30px;
+    text-align: center;
+    padding-top: 45px;
+    border-radius: 5px;
+    color: red;
+    background-color: antiquewhite;
+    
+}
+.small{
+   color: grey;
+}
+.small-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    margin-bottom: 10px;
+   
+}
+.btn{
+    text-align: center;
+}
+.hr{
+    margin: 0 100px;
+}
+/* section2 */
+.our-donate-plan{
+
+}
+.our-donate{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 60px;
+
+}
+.our{
+    margin-bottom: 20px;
+}
+.container{
+margin: 20px 100px;
+padding: 10px;
+display: flex;
+justify-content: center;
+justify-content: space-around;
+
+}
+.same-div1{
+    width: 25%;
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 15px 20px;
+    width: 15%;
+    height: 10%;
+    
+    
+}
+.font{
+    padding-bottom: 10px;
+    
+}
+.same-div2{
+    width: 25%;
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 15px 20px;
+    width: 15%;
+    height: 10%;
+
+    
+    
+}
+.text-align{
+    text-align: center;
+}
+.same-div3{
+    width: 25%;
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 15px 20px;
+    width: 15%;
+    height: 10%;
+    
+}
+.img1{
+    padding: 12px 10px;
+}
+.img2{
+    padding:10px 10px ;
+}
+.img3{
+    padding:20px 10px ;
+}
+/* section3 */
+.second-img{
+    width: 80%;
+    border-radius: 10px;
+    padding-top: 50px;
+
+}
+.third-section{
+    margin: 30px;
+    padding: 40px 60px;
+    display: flex;
+   justify-content: space-around;
+}
+.third-div{
+    width: 40%;
+}
+/* section 4 */
+.img-left{
+    width: 50%;
+    border-radius: 10px;
+    padding-top: 80px;
+    margin-left: 70px;
+}
+.fourth-section{
+    margin:90px;
+    display: flex;
+    padding-top: 20px;
+}
+.fourth-div{
+    width: 40%;
+}
+/* last section */
+.email-btn{
+    display:flex;
+    justify-content: center;
+    /* align-items: stretch; */
+    width: 50%;
+    height: 50%;
+    background-color: bisque;
+   align-items: center;
+   margin-left: 90px;
+}
+.last-section{
+   
+   
+}
+.email{
+    padding-top: 12px;
+    margin-top: 22px;
+    margin-left: 16px;
+}
+.last-d{
+    text-align: center;
+    
+}
